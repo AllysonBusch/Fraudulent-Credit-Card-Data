@@ -8,4 +8,4 @@ The project was completed in Python and utilized the following libraries: numpy,
 
 ## Launch 
 
-The file needed to run the project is included in the project folder. 
+The file needed to run the project is included in the project folder, but the dataset is too large and must be downloaded from Kaggle. 
